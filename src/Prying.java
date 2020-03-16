@@ -3,6 +3,10 @@ import java.lang.reflect.InvocationTargetException;
 
 public class Prying {
 
+    public Prying(double... variables) {
+
+    }
+
     public static void main(String[] args) {
 
         try {

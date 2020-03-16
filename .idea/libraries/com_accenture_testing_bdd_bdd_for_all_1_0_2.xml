@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.accenture.testing.bdd:bdd-for-all:1.0.2" type="repository">
+    <properties maven-id="com.accenture.testing.bdd:bdd-for-all:1.0.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/bdd-for-all-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/bdd-for-all-1.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
